@@ -1,4 +1,4 @@
-/* For 1st section */
+/* Style for 1st section */
 .header1{
     background-color:#F0FFF0;
     height: 500px;
@@ -18,9 +18,6 @@
     width: 500px;
 }
 
-.shad1{
-    box-shadow: gray 2px 5px 12px;
-}
 
 .button1 {
     font-size: 15px;
@@ -34,7 +31,15 @@
     border: none;
     cursor: pointer;
 }
-/* ******* */
+
+.button1:hover{
+
+    background:darkcyan;
+    text-decoration: none;
+    color: black;
+}
+
+/* Style for 2nd section. */
 
 .set-icon img{
     width: 50px;
@@ -52,6 +57,11 @@
   box-shadow: 5px 5px 10px lightgray;
   cursor: pointer;
 }
+
+.shad1{
+    box-shadow: gray 2px 5px 12px;
+}
+
 .bg-color{
     background-color: #F8FFFB;
 }
