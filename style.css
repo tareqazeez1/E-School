@@ -3,6 +3,8 @@
     background-color:#F0FFF0;
     height: 500px;
     padding-top: 40px;
+    
+    
 }
 .navbar{
     background-color: transparent!important;
@@ -66,4 +68,52 @@
     background-color: #F8FFFB;
 }
 
+/* Style for 3rd section */
+
+.online-Course{
+    text-align: center;
+}
+.card{
+    border: .5px solid whitesmoke;
+    border-radius: 10px;
+    padding: 20px;
+    cursor: pointer
+    box-shadow: 7px 7px 15px grey;
+
+}
+.card:hover {
+    background: #fbfffb;
+  }
+.footer-icon img{
+    width: 25px;
+}
+
+/* Style for 4th section */
+
+
+/* Style for 5th section */
+
+#Testimonial{
+    text-align: center;
+}
+.Testimonial-man img{
+    width: 130px;
+}
+.wrap{
+    text-align: justify ;
+    width: 550px;
+    margin-left: 50px;
+}
+
+/* style for 6th section */
+
+.footer-area {
+    margin-top: 60px;
+    padding: 40px;
+    height: 80%;
+    width: 100%;
+    background-color: #282531;
+    color: whitesmoke;
+
+}
 
