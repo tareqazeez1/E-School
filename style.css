@@ -1,36 +1,34 @@
-
-/* 1st sec/container */
-
-.container{
-    background-color: #F0FFF0;
-    width: 1400px;
+/* For 1st section */
+.header1{
+    background-color:#F0FFF0;
     height: 500px;
+    padding-top: 40px;
 }
-
-/* Related to navbar */
-
-
 .navbar{
     background-color: transparent!important;
 }
-
-
-/* Related to button */
-
-.button1{
-color: white;
-font-weight: 400;
-width: 80px;
-height: 30px;
-left: 1200px;
-top: 15px;
-border: none;
-background-color: #21B573;
-border-radius: 30px;
-
+.container{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.Logo-image img {
+    width: 200px;
+}
+.hadder-image img{
+    width: 500px;
 }
 
-.span1{
-    color: #21B573;
-}
+.link-button {
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    border-radius: 30px;
+    padding: 8px 18px 8px 18px;
+    font-weight: 500;
+    background: #21B573;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+  }
+
 
