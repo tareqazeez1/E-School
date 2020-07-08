@@ -14,11 +14,15 @@
 .Logo-image img {
     width: 200px;
 }
-.hadder-image img{
+.h-image img{
     width: 500px;
 }
 
-.link-button {
+.shad1{
+    box-shadow: gray 2px 5px 12px;
+}
+
+.button1 {
     font-size: 15px;
     color: white;
     text-align: center;
@@ -29,6 +33,27 @@
     text-decoration: none;
     border: none;
     cursor: pointer;
-  }
+}
+/* ******* */
+
+.set-icon img{
+    width: 50px;
+    padding-bottom: 30px;
+}
+.set-icon{
+    text-align: center;
+}
+.box-shaddow:hover{
+  background: #F8FFFB;
+  text-decoration: none;
+  color: black;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+  cursor: pointer;
+}
+.bg-color{
+    background-color: #F8FFFB;
+}
 
 
